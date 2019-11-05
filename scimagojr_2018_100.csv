@@ -1,101 +1,101 @@
-Rank,Title,Type,Issn,Country,Publisher,Coverage,Categories
-1,CA - A Cancer Journal for Clinicians,journal,"15424863, 00079235",United States,Wiley-Blackwell,1950-ongoing,Hematology (Q1); Oncology (Q1)
-2,MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports / Centers for Disease Control,journal,"10575987, 15458601",United States,Centers for Disease Control and Prevention (CDC),1990-ongoing,"Epidemiology (Q1); Health Information Management (Q1); Health (social science) (Q1); Health, Toxicology and Mutagenesis (Q1); Medicine (miscellaneous) (Q1)"
-3,Nature Reviews Materials,journal,20588437,United Kingdom,Nature Publishing Group,2016-ongoing,"Biomaterials (Q1); Electronic, Optical and Magnetic Materials (Q1); Energy (miscellaneous) (Q1); Materials Chemistry (Q1); Surfaces, Coatings and Films (Q1)"
-4,Quarterly Journal of Economics,journal,"00335533, 15314650",United Kingdom,Oxford University Press,"1973-1974, 1976-ongoing",Economics and Econometrics (Q1)
-5,Nature Reviews Genetics,journal,"14710056, 14710064",United Kingdom,Nature Publishing Group,2000-ongoing,Genetics (Q1); Genetics (clinical) (Q1); Molecular Biology (Q1)
-6,Nature Reviews Molecular Cell Biology,journal,"14710072, 14710080",United Kingdom,Nature Publishing Group,2000-ongoing,Cell Biology (Q1); Molecular Biology (Q1)
-7,Nature Reviews Cancer,journal,1474175X,United Kingdom,Nature Publishing Group,2001-ongoing,Cancer Research (Q1); Oncology (Q1)
-8,"National vital statistics reports : from the Centers for Disease Control and Prevention, National Center for Health Statistics, National Vital Statistics System",journal,"15518922, 15518930",United States,US Department of Health and Human Services,1998-ongoing,Life-span and Life-course Studies (Q1)
-9,Nature Reviews Immunology,journal,14741733,United Kingdom,Nature Publishing Group,2001-ongoing,Immunology (Q1); Immunology and Allergy (Q1); Medicine (miscellaneous) (Q1)
-10,Cell,journal,"00928674, 10974172",United States,Cell Press,1974-ongoing,"Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1)"
-11,Journal of Political Economy,journal,"00223808, 1537534X",United States,University of Chicago Press,"1969, 1973-1974, 1979-1985, 1987-ongoing",Economics and Econometrics (Q1)
-12,Chemical Reviews,journal,"15206890, 00092665",United States,American Chemical Society,1924-ongoing,Chemistry (miscellaneous) (Q1)
-13,Nature Genetics,journal,10614036,United Kingdom,Nature Publishing Group,1992-ongoing,Genetics (Q1)
-14,Nature Reviews Neuroscience,journal,"14710048, 1471003X",United Kingdom,Nature Publishing Group,2000-ongoing,Neuroscience (miscellaneous) (Q1)
-15,Nature Methods,journal,"15487091, 15487105",United Kingdom,Nature Publishing Group,2004-ongoing,Biochemistry (Q1); Biotechnology (Q1); Cell Biology (Q1); Molecular Biology (Q1)
-16,New England Journal of Medicine,journal,"00284793, 15334406",United States,Massachusetts Medical Society,1945-ongoing,Medicine (miscellaneous) (Q1)
-17,MMWR. Surveillance summaries : Morbidity and mortality weekly report. Surveillance summaries / CDC,journal,"15458636, 15460738",United States,Centers for Disease Control and Prevention (CDC),2002-ongoing,"Epidemiology (Q1); Health Information Management (Q1); Health (social science) (Q1); Health, Toxicology and Mutagenesis (Q1)"
-18,The Lancet Oncology,journal,"14702045, 14745488",United Kingdom,The Lancet Publishing Group,2000-ongoing,Oncology (Q1)
-19,Journal of Finance,journal,"00221082, 15406261",United Kingdom,Blackwell Publishing Inc.,1946-ongoing,Accounting (Q1); Economics and Econometrics (Q1); Finance (Q1)
-20,Nature Reviews Microbiology,journal,17401526,United Kingdom,Nature Publishing Group,2003-ongoing,Immunology and Microbiology (miscellaneous)  (Q1); Infectious Diseases (Q1); Microbiology (Q1)
-21,Econometrica,journal,"00129682, 14680262",United Kingdom,Blackwell Publishing Inc.,"1974, 1977-1984, 1990, 1994-ongoing",Economics and Econometrics (Q1)
-22,Journal of Statistical Software,journal,15487660,United States,University of California at Los Angeles,1996-ongoing,"Software (Q1); Statistics and Probability (Q1); Statistics, Probability and Uncertainty (Q1)"
-23,Annual Review of Biochemistry,journal,"15454509, 00664154",United States,Annual Reviews Inc.,"1950-1960, 1962-ongoing",Biochemistry (Q1)
-24,Reviews of Modern Physics,journal,"00346861, 15390756",United States,American Physical Society,1929-ongoing,Physics and Astronomy (miscellaneous) (Q1)
-25,Annual Review of Astronomy and Astrophysics,journal,"15454282, 00664146",United States,Annual Reviews Inc.,1990-ongoing,Astronomy and Astrophysics (Q1); Space and Planetary Science (Q1)
-26,Nature Nanotechnology,journal,17483387,United Kingdom,Nature Publishing Group,2006-ongoing,"Atomic and Molecular Physics, and Optics (Q1); Bioengineering (Q1); Biomedical Engineering (Q1); Condensed Matter Physics (Q1); Electrical and Electronic Engineering (Q1); Materials Science (miscellaneous) (Q1); Nanoscience and Nanotechnology (Q1)"
-27,Nature Medicine,journal,10788956,United Kingdom,Nature Publishing Group,1995-ongoing,"Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Medicine (miscellaneous) (Q1)"
-28,Nature Energy,journal,20587546,United States,Springer Nature,2016-ongoing,"Electronic, Optical and Magnetic Materials (Q1); Energy Engineering and Power Technology (Q1); Fuel Technology (Q1); Renewable Energy, Sustainability and the Environment (Q1)"
-29,Nature Materials,journal,"14764660, 14761122",United Kingdom,Nature Publishing Group,2002-ongoing,Chemistry (miscellaneous) (Q1); Condensed Matter Physics (Q1); Materials Science (miscellaneous) (Q1); Mechanical Engineering (Q1); Mechanics of Materials (Q1)
-30,Nature,journal,"14764687, 00280836",United Kingdom,Nature Publishing Group,1869-ongoing,Multidisciplinary (Q1)
-31,Chemical Society Reviews,journal,"03060012, 14604744",United Kingdom,Royal Society of Chemistry,1972-ongoing,Chemistry (miscellaneous) (Q1)
-32,The Lancet,journal,"01406736, 1474547X",United Kingdom,The Lancet Publishing Group,1823-ongoing,Medicine (miscellaneous) (Q1)
-33,Nature Neuroscience,journal,10976256,United Kingdom,Nature Publishing Group,1998-ongoing,Neuroscience (miscellaneous) (Q1)
-34,Annual Review of Immunology,journal,"15453278, 07320582",United States,Annual Reviews Inc.,1983-ongoing,Immunology (Q1); Immunology and Allergy (Q1)
-35,"Vital & health statistics. Series 3, Analytical and epidemiological studies / [U.S. Dept. of Health and Human Services, Public Health Service, National Center for Health Statistics]",journal,8864691,United States,U.S. National Center for Health Statistics,"1972, 1983-1984, 1989, 1993, 1995, 1997, 2001, 2007, 2012, 2016-ongoing",Medicine (miscellaneous) (Q1)
-36,Nature Biotechnology,journal,10870156,United Kingdom,Nature Publishing Group,1990-ongoing,Applied Microbiology and Biotechnology (Q1); Bioengineering (Q1); Biomedical Engineering (Q1); Biotechnology (Q1); Molecular Medicine (Q1)
-37,Review of Economic Studies,journal,"00346527, 1467937X",United Kingdom,Oxford University Press,"1969, 1977, 1979, 1983-1985, 1996-ongoing",Economics and Econometrics (Q1)
-38,American Economic Journal: Macroeconomics,journal,"19457707, 19457715",United States,American Economic Association,2011-ongoing,"Economics, Econometrics and Finance (miscellaneous) (Q1)"
-39,Journal of Financial Economics,journal,0304405X,Netherlands,Elsevier BV,1974-ongoing,Accounting (Q1); Economics and Econometrics (Q1); Finance (Q1); Strategy and Management (Q1)
-40,Journal of Labor Economics,journal,"0734306X, 15375307",United States,University of Chicago Press,"1985-1989, 1991, 1993, 1995-ongoing",Economics and Econometrics (Q1); Industrial Relations (Q1)
-41,Administrative Science Quarterly,journal,18392,United States,Cornell University Press,"1975-1987, 1989-1990, 1993-1994, 1996-ongoing",Arts and Humanities (miscellaneous) (Q1); Public Administration (Q1); Sociology and Political Science (Q1)
-42,Nature Reviews Chemistry,journal,23973358,United Kingdom,Nature Publishing Group,2017-ongoing,Chemical Engineering (miscellaneous) (Q1); Chemistry (miscellaneous) (Q1)
-43,Nature Photonics,journal,17494885,United Kingdom,Nature Pub. Group,2007-ongoing,"Atomic and Molecular Physics, and Optics (Q1); Electronic, Optical and Magnetic Materials (Q1)"
-44,Nature Immunology,journal,"15292908, 15292916",United Kingdom,Nature Publishing Group,2000-ongoing,Immunology (Q1); Immunology and Allergy (Q1)
-45,Science,journal,368075,United States,American Association for the Advancement of Science,1880-ongoing,History and Philosophy of Science (Q1); Multidisciplinary (Q1)
-46,Energy and Environmental Sciences,journal,17545692,United Kingdom,Royal Society of Chemistry,2008-ongoing,"Environmental Chemistry (Q1); Nuclear Energy and Engineering (Q1); Pollution (Q1); Renewable Energy, Sustainability and the Environment (Q1)"
-47,Nature Reviews Disease Primers,journal,2056676X,United Kingdom,Nature Publishing Group,2015-ongoing,Medicine (miscellaneous) (Q1)
-48,Annual Review of Psychology,journal,"00664308, 15452085",United States,Annual Reviews Inc.,"1950-1958, 1960-1963, 1965-ongoing",Psychology (miscellaneous) (Q1)
-49,Academy of Management Annals,journal,"19416520, 19416067",United Kingdom,Routledge,2010-ongoing,Business and International Management (Q1); Organizational Behavior and Human Resource Management (Q1)
-50,Annual Review of Neuroscience,book series,"0147006X, 15454126",United States,Annual Reviews Inc.,1978-ongoing,Neuroscience (miscellaneous) (Q1)
-51,Review of Financial Studies,journal,"14657368, 08939454",United Kingdom,Oxford University Press,1996-ongoing,Accounting (Q1); Economics and Econometrics (Q1); Finance (Q1)
-52,Journal of Human Resources,journal,"15488004, 0022166X",United States,University of Wisconsin Press,"1976-1982, 1992-ongoing",Economics and Econometrics (Q1); Management of Technology and Innovation (Q1); Organizational Behavior and Human Resource Management (Q1); Strategy and Management (Q1)
-53,The Lancet Neurology,journal,14744422,United Kingdom,The Lancet Publishing Group,2002-ongoing,Neurology (clinical) (Q1)
-54,Nature Cell Biology,journal,14657392,United Kingdom,Nature Publishing Group,1999-ongoing,Cell Biology (Q1)
-55,Molecular Cell,journal,"10974164, 10972765",United States,Cell Press,1997-ongoing,Cell Biology (Q1); Molecular Biology (Q1)
-56,American Economic Review,journal,28282,United States,American Economic Association,1978-ongoing,Economics and Econometrics (Q1)
-57,NBER Macroeconomics Annual,book series,8893365,United States,University of Chicago Press,1996-ongoing,Economics and Econometrics (Q1)
-58,Physiological Reviews,journal,"15221210, 00319333",United States,American Physiological Society,1945-ongoing,Medicine (miscellaneous) (Q1); Molecular Biology (Q1); Physiology (Q1); Physiology (medical) (Q1)
-59,Journal of Clinical Oncology,journal,0732183X,United States,American Society of Clinical Oncology,1983-ongoing,Cancer Research (Q1); Medicine (miscellaneous) (Q1); Oncology (Q1)
-60,Advances in Physics,journal,"14606976, 00018732",United Kingdom,Taylor & Francis,1952-ongoing,Condensed Matter Physics (Q1)
-61,Cancer Cell,journal,15356108,United States,Cell Press,2002-ongoing,Cancer Research (Q1); Cell Biology (Q1); Oncology (Q1)
-62,"Vital and health statistics. Series 2, Data evaluation and methods research",journal,832057,United States,U.S. National Center for Health Statistics,"1965, 1970, 1977-1982, 1985-1989, 1991-1994, 1996-2001, 2003-2006, 2008, 2010-ongoing",Health Information Management (Q1); Medicine (miscellaneous) (Q1); Statistics and Probability (Q1)
-63,Annual Review of Plant Biology,book series,15435008,United States,Annual Reviews Inc.,1996-ongoing,Cell Biology (Q1); Molecular Biology (Q1); Physiology (Q1); Plant Science (Q1)
-64,American Economic Journal: Applied Economics,journal,"19457790, 19457782",United States,American Economic Association,2009-ongoing,"Economics, Econometrics and Finance (miscellaneous) (Q1)"
-65,Cell Stem Cell,journal,19345909,United States,Cell Press,2007-ongoing,Cell Biology (Q1); Genetics (Q1); Molecular Medicine (Q1)
-66,Neuron,journal,8966273,United States,Cell Press,1988-ongoing,Neuroscience (miscellaneous) (Q1)
-67,Immunity,journal,"10974180, 10747613",United States,Cell Press,1994-ongoing,Immunology (Q1); Immunology and Allergy (Q1); Infectious Diseases (Q1)
-68,Academy of Management Journal,journal,14273,United States,Academy of Management,"1975-1987, 1989-ongoing","Business and International Management (Q1); Business, Management and Accounting (miscellaneous) (Q1); Management of Technology and Innovation (Q1); Strategy and Management (Q1)"
-69,Cell Metabolism,journal,15504131,United States,Cell Press,2005-ongoing,Cell Biology (Q1); Molecular Biology (Q1); Physiology (Q1)
-70,Nature Chemistry,journal,"17554330, 17554349",United Kingdom,Nature Publishing Group,2009-ongoing,Chemical Engineering (miscellaneous) (Q1); Chemistry (miscellaneous) (Q1)
-71,Annual Review of Physiology,journal,"00664278, 15451585",United States,Annual Reviews Inc.,1946-ongoing,Physiology (Q1)
-72,Clinical Microbiology Reviews,journal,"08938512, 10986618",United States,American Society for Microbiology,1988-ongoing,"Epidemiology (Q1); Immunology and Microbiology (miscellaneous)  (Q1); Infectious Diseases (Q1); Microbiology (medical) (Q1); Public Health, Environmental and Occupational Health (Q1)"
-73,Annual Review of Cell and Developmental Biology,book series,"15308995, 10810706",United States,Annual Reviews Inc.,1995-ongoing,Cell Biology (Q1); Developmental Biology (Q1)
-74,Genome Research,journal,"15495469, 10889051",United States,Cold Spring Harbor Laboratory Press,1991-ongoing,Genetics (Q1); Genetics (clinical) (Q1)
-75,Journal of Accounting Research,journal,"1475679X, 00218456",United Kingdom,Blackwell Publishing Inc.,1996-ongoing,Accounting (Q1); Economics and Econometrics (Q1); Finance (Q1)
-76,Advanced Materials,journal,9359648,United States,Wiley-Blackwell,1989-ongoing,Materials Science (miscellaneous) (Q1); Mechanical Engineering (Q1); Mechanics of Materials (Q1); Nanoscience and Nanotechnology (Q1)
-77,The Lancet Diabetes and Endocrinology,journal,22138587,Netherlands,The Lancet Publishing Group,2013-ongoing,"Endocrinology (Q1); Endocrinology, Diabetes and Metabolism (Q1); Internal Medicine (Q1)"
-78,Trends in Cell Biology,journal,9628924,Netherlands,Elsevier BV,1991-ongoing,Cell Biology (Q1)
-79,Nature Structural and Molecular Biology,journal,"15459993, 15459985",United Kingdom,Nature Publishing Group,2004-ongoing,Molecular Biology (Q1); Structural Biology (Q1)
-80,Genome Biology,journal,"1474760X, 14747596",United Kingdom,BioMed Central,2000-ongoing,"Cell Biology (Q1); Ecology, Evolution, Behavior and Systematics (Q1); Genetics (Q1)"
-81,Journal of the American Mathematical Society,journal,"10886834, 08940347",United States,American Mathematical Society,1996-ongoing,Applied Mathematics (Q1); Mathematics (miscellaneous) (Q1)
-82,Annual Review of Condensed Matter Physics,journal,"19475454, 19475462",United States,Annual Reviews Inc.,2010-ongoing,Condensed Matter Physics (Q1); Materials Science (miscellaneous) (Q1)
-83,American Journal of Political Science,journal,"00925853, 15405907",United Kingdom,Blackwell Publishing Inc.,"1982, 1986, 1996-ongoing",Political Science and International Relations (Q1); Sociology and Political Science (Q1)
-84,Nature Physics,journal,17452473,United Kingdom,Nature Publishing Group,2006-ongoing,Physics and Astronomy (miscellaneous) (Q1)
-85,Nature Reviews Drug Discovery,journal,14741776,United Kingdom,Nature Publishing Group,2002-ongoing,Drug Discovery (Q1); Medicine (miscellaneous) (Q1); Pharmacology (Q1)
-86,Nature Reviews Clinical Oncology,journal,"17594782, 17594774",United Kingdom,Nature Publishing Group,2009-ongoing,Oncology (Q1)
-87,Accounts of Chemical Research,journal,"00014842, 15204898",United States,American Chemical Society,1968-ongoing,Chemistry (miscellaneous) (Q1); Medicine (miscellaneous) (Q1)
-88,The Lancet Infectious Diseases,journal,14733099,United Kingdom,The Lancet Publishing Group,2001-ongoing,Infectious Diseases (Q1)
-89,Annual Review of Biophysics,journal,1936122X,United States,Annual Reviews Inc.,2008-ongoing,Biochemistry (Q1); Bioengineering (Q1); Biophysics (Q1); Cell Biology (Q1); Structural Biology (Q1)
-90,Academy of Management Review,journal,3637425,United States,Academy of Management,"1978-1987, 1989-1991, 1996-ongoing","Business, Management and Accounting (miscellaneous) (Q1); Management of Technology and Innovation (Q1); Strategy and Management (Q1)"
-91,European Urology,journal,"03022838, 1421993X",Netherlands,Elsevier BV,1975-ongoing,Urology (Q1)
-92,Journal of the American College of Cardiology,journal,7351097,Netherlands,Elsevier BV,1983-ongoing,Cardiology and Cardiovascular Medicine (Q1)
-93,Psychological Bulletin,journal,332909,United States,American Psychological Association,1904-ongoing,History and Philosophy of Science (Q1); Psychology (miscellaneous) (Q1)
-94,Annals of Mathematics,journal,0003486X,United States,Princeton University Press,1996-ongoing,"Statistics and Probability (Q1); Statistics, Probability and Uncertainty (Q1)"
-95,Journal of Marketing,journal,"15477185, 00222429",United States,American Marketing Association,"1969, 1971, 1973, 1977, 1979-1981, 1996-ongoing",Business and International Management (Q1); Economics and Econometrics (Q1); Marketing (Q1)
-96,Journal of Economic Literature,journal,220515,United States,American Economic Association,"1981, 1984, 1986, 1996-ongoing",Economics and Econometrics (Q1)
-97,Advanced Energy Materials,journal,"16146832, 16146840",Germany,Wiley-VCH Verlag,2011-ongoing,"Materials Science (miscellaneous) (Q1); Renewable Energy, Sustainability and the Environment (Q1)"
-98,Strategic Management Journal,journal,"10970266, 01432095",United States,John Wiley & Sons Inc.,1980-ongoing,Business and International Management (Q1); Strategy and Management (Q1)
-99,Nature Protocols,journal,17542189,United Kingdom,Nature Publishing Group,2006-ongoing,"Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1)"
-100,Annual Review of Economics,journal,19411383,United States,Annual Reviews Inc.,2010-ongoing,Economics and Econometrics (Q1)
+Rank,Title,How to publish in this journal,format,Type,Issn,Country,Publisher,Coverage,Categories
+1,CA - A Cancer Journal for Clinicians,"http://mchelp.manuscriptcentral.com/gethelpnow/, http://mchelp.manuscriptcentral.com/gethelpnow/tutorials/authorfileupload.pdf, http://mchelp.manuscriptcentral.com/gethelpnow/tutorials/author.pdf","doc, docx, ppt, pptx, xls, xlsx, htm, txt, wpd, pdf, ai, cgm, dicom, eps, fig, fits, gif, jpg, jpeg, png, ps, tif, tiff, xwd, tex",journal,"15424863, 00079235",United States,Wiley-Blackwell,1950-ongoing,Hematology (Q1); Oncology (Q1)
+2,MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports / Centers for Disease Control,,,journal,"10575987, 15458601",United States,Centers for Disease Control and Prevention (CDC),1990-ongoing,"Epidemiology (Q1); Health Information Management (Q1); Health (social science) (Q1); Health, Toxicology and Mutagenesis (Q1); Medicine (miscellaneous) (Q1)"
+3,Nature Reviews Materials,,,journal,20588437,United Kingdom,Nature Publishing Group,2016-ongoing,"Biomaterials (Q1); Electronic, Optical and Magnetic Materials (Q1); Energy (miscellaneous) (Q1); Materials Chemistry (Q1); Surfaces, Coatings and Films (Q1)"
+4,Quarterly Journal of Economics,,,journal,"00335533, 15314650",United Kingdom,Oxford University Press,"1973-1974, 1976-ongoing",Economics and Econometrics (Q1)
+5,Nature Reviews Genetics,,,journal,"14710056, 14710064",United Kingdom,Nature Publishing Group,2000-ongoing,Genetics (Q1); Genetics (clinical) (Q1); Molecular Biology (Q1)
+6,Nature Reviews Molecular Cell Biology,,,journal,"14710072, 14710080",United Kingdom,Nature Publishing Group,2000-ongoing,Cell Biology (Q1); Molecular Biology (Q1)
+7,Nature Reviews Cancer,,,journal,1474175X,United Kingdom,Nature Publishing Group,2001-ongoing,Cancer Research (Q1); Oncology (Q1)
+8,"National vital statistics reports : from the Centers for Disease Control and Prevention, National Center for Health Statistics, National Vital Statistics System",,,journal,"15518922, 15518930",United States,US Department of Health and Human Services,1998-ongoing,Life-span and Life-course Studies (Q1)
+9,Nature Reviews Immunology,,,journal,14741733,United Kingdom,Nature Publishing Group,2001-ongoing,Immunology (Q1); Immunology and Allergy (Q1); Medicine (miscellaneous) (Q1)
+10,Cell,,,journal,"00928674, 10974172",United States,Cell Press,1974-ongoing,"Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1)"
+11,Journal of Political Economy,,,journal,"00223808, 1537534X",United States,University of Chicago Press,"1969, 1973-1974, 1979-1985, 1987-ongoing",Economics and Econometrics (Q1)
+12,Chemical Reviews,,,journal,"15206890, 00092665",United States,American Chemical Society,1924-ongoing,Chemistry (miscellaneous) (Q1)
+13,Nature Genetics,,,journal,10614036,United Kingdom,Nature Publishing Group,1992-ongoing,Genetics (Q1)
+14,Nature Reviews Neuroscience,,,journal,"14710048, 1471003X",United Kingdom,Nature Publishing Group,2000-ongoing,Neuroscience (miscellaneous) (Q1)
+15,Nature Methods,,,journal,"15487091, 15487105",United Kingdom,Nature Publishing Group,2004-ongoing,Biochemistry (Q1); Biotechnology (Q1); Cell Biology (Q1); Molecular Biology (Q1)
+16,New England Journal of Medicine,,,journal,"00284793, 15334406",United States,Massachusetts Medical Society,1945-ongoing,Medicine (miscellaneous) (Q1)
+17,MMWR. Surveillance summaries : Morbidity and mortality weekly report. Surveillance summaries / CDC,,,journal,"15458636, 15460738",United States,Centers for Disease Control and Prevention (CDC),2002-ongoing,"Epidemiology (Q1); Health Information Management (Q1); Health (social science) (Q1); Health, Toxicology and Mutagenesis (Q1)"
+18,The Lancet Oncology,,,journal,"14702045, 14745488",United Kingdom,The Lancet Publishing Group,2000-ongoing,Oncology (Q1)
+19,Journal of Finance,,,journal,"00221082, 15406261",United Kingdom,Blackwell Publishing Inc.,1946-ongoing,Accounting (Q1); Economics and Econometrics (Q1); Finance (Q1)
+20,Nature Reviews Microbiology,,,journal,17401526,United Kingdom,Nature Publishing Group,2003-ongoing,Immunology and Microbiology (miscellaneous)  (Q1); Infectious Diseases (Q1); Microbiology (Q1)
+21,Econometrica,,,journal,"00129682, 14680262",United Kingdom,Blackwell Publishing Inc.,"1974, 1977-1984, 1990, 1994-ongoing",Economics and Econometrics (Q1)
+22,Journal of Statistical Software,,,journal,15487660,United States,University of California at Los Angeles,1996-ongoing,"Software (Q1); Statistics and Probability (Q1); Statistics, Probability and Uncertainty (Q1)"
+23,Annual Review of Biochemistry,,,journal,"15454509, 00664154",United States,Annual Reviews Inc.,"1950-1960, 1962-ongoing",Biochemistry (Q1)
+24,Reviews of Modern Physics,,,journal,"00346861, 15390756",United States,American Physical Society,1929-ongoing,Physics and Astronomy (miscellaneous) (Q1)
+25,Annual Review of Astronomy and Astrophysics,,,journal,"15454282, 00664146",United States,Annual Reviews Inc.,1990-ongoing,Astronomy and Astrophysics (Q1); Space and Planetary Science (Q1)
+26,Nature Nanotechnology,,,journal,17483387,United Kingdom,Nature Publishing Group,2006-ongoing,"Atomic and Molecular Physics, and Optics (Q1); Bioengineering (Q1); Biomedical Engineering (Q1); Condensed Matter Physics (Q1); Electrical and Electronic Engineering (Q1); Materials Science (miscellaneous) (Q1); Nanoscience and Nanotechnology (Q1)"
+27,Nature Medicine,,,journal,10788956,United Kingdom,Nature Publishing Group,1995-ongoing,"Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Medicine (miscellaneous) (Q1)"
+28,Nature Energy,,,journal,20587546,United States,Springer Nature,2016-ongoing,"Electronic, Optical and Magnetic Materials (Q1); Energy Engineering and Power Technology (Q1); Fuel Technology (Q1); Renewable Energy, Sustainability and the Environment (Q1)"
+29,Nature Materials,,,journal,"14764660, 14761122",United Kingdom,Nature Publishing Group,2002-ongoing,Chemistry (miscellaneous) (Q1); Condensed Matter Physics (Q1); Materials Science (miscellaneous) (Q1); Mechanical Engineering (Q1); Mechanics of Materials (Q1)
+30,Nature,,,journal,"14764687, 00280836",United Kingdom,Nature Publishing Group,1869-ongoing,Multidisciplinary (Q1)
+31,Chemical Society Reviews,,,journal,"03060012, 14604744",United Kingdom,Royal Society of Chemistry,1972-ongoing,Chemistry (miscellaneous) (Q1)
+32,The Lancet,,,journal,"01406736, 1474547X",United Kingdom,The Lancet Publishing Group,1823-ongoing,Medicine (miscellaneous) (Q1)
+33,Nature Neuroscience,,,journal,10976256,United Kingdom,Nature Publishing Group,1998-ongoing,Neuroscience (miscellaneous) (Q1)
+34,Annual Review of Immunology,,,journal,"15453278, 07320582",United States,Annual Reviews Inc.,1983-ongoing,Immunology (Q1); Immunology and Allergy (Q1)
+35,"Vital & health statistics. Series 3, Analytical and epidemiological studies / [U.S. Dept. of Health and Human Services, Public Health Service, National Center for Health Statistics]",,,journal,8864691,United States,U.S. National Center for Health Statistics,"1972, 1983-1984, 1989, 1993, 1995, 1997, 2001, 2007, 2012, 2016-ongoing",Medicine (miscellaneous) (Q1)
+36,Nature Biotechnology,,,journal,10870156,United Kingdom,Nature Publishing Group,1990-ongoing,Applied Microbiology and Biotechnology (Q1); Bioengineering (Q1); Biomedical Engineering (Q1); Biotechnology (Q1); Molecular Medicine (Q1)
+37,Review of Economic Studies,,,journal,"00346527, 1467937X",United Kingdom,Oxford University Press,"1969, 1977, 1979, 1983-1985, 1996-ongoing",Economics and Econometrics (Q1)
+38,American Economic Journal: Macroeconomics,,,journal,"19457707, 19457715",United States,American Economic Association,2011-ongoing,"Economics, Econometrics and Finance (miscellaneous) (Q1)"
+39,Journal of Financial Economics,,,journal,0304405X,Netherlands,Elsevier BV,1974-ongoing,Accounting (Q1); Economics and Econometrics (Q1); Finance (Q1); Strategy and Management (Q1)
+40,Journal of Labor Economics,,,journal,"0734306X, 15375307",United States,University of Chicago Press,"1985-1989, 1991, 1993, 1995-ongoing",Economics and Econometrics (Q1); Industrial Relations (Q1)
+41,Administrative Science Quarterly,,,journal,18392,United States,Cornell University Press,"1975-1987, 1989-1990, 1993-1994, 1996-ongoing",Arts and Humanities (miscellaneous) (Q1); Public Administration (Q1); Sociology and Political Science (Q1)
+42,Nature Reviews Chemistry,,,journal,23973358,United Kingdom,Nature Publishing Group,2017-ongoing,Chemical Engineering (miscellaneous) (Q1); Chemistry (miscellaneous) (Q1)
+43,Nature Photonics,,,journal,17494885,United Kingdom,Nature Pub. Group,2007-ongoing,"Atomic and Molecular Physics, and Optics (Q1); Electronic, Optical and Magnetic Materials (Q1)"
+44,Nature Immunology,,,journal,"15292908, 15292916",United Kingdom,Nature Publishing Group,2000-ongoing,Immunology (Q1); Immunology and Allergy (Q1)
+45,Science,,,journal,368075,United States,American Association for the Advancement of Science,1880-ongoing,History and Philosophy of Science (Q1); Multidisciplinary (Q1)
+46,Energy and Environmental Sciences,,,journal,17545692,United Kingdom,Royal Society of Chemistry,2008-ongoing,"Environmental Chemistry (Q1); Nuclear Energy and Engineering (Q1); Pollution (Q1); Renewable Energy, Sustainability and the Environment (Q1)"
+47,Nature Reviews Disease Primers,,,journal,2056676X,United Kingdom,Nature Publishing Group,2015-ongoing,Medicine (miscellaneous) (Q1)
+48,Annual Review of Psychology,,,journal,"00664308, 15452085",United States,Annual Reviews Inc.,"1950-1958, 1960-1963, 1965-ongoing",Psychology (miscellaneous) (Q1)
+49,Academy of Management Annals,,,journal,"19416520, 19416067",United Kingdom,Routledge,2010-ongoing,Business and International Management (Q1); Organizational Behavior and Human Resource Management (Q1)
+50,Annual Review of Neuroscience,,,book series,"0147006X, 15454126",United States,Annual Reviews Inc.,1978-ongoing,Neuroscience (miscellaneous) (Q1)
+51,Review of Financial Studies,,,journal,"14657368, 08939454",United Kingdom,Oxford University Press,1996-ongoing,Accounting (Q1); Economics and Econometrics (Q1); Finance (Q1)
+52,Journal of Human Resources,,,journal,"15488004, 0022166X",United States,University of Wisconsin Press,"1976-1982, 1992-ongoing",Economics and Econometrics (Q1); Management of Technology and Innovation (Q1); Organizational Behavior and Human Resource Management (Q1); Strategy and Management (Q1)
+53,The Lancet Neurology,,,journal,14744422,United Kingdom,The Lancet Publishing Group,2002-ongoing,Neurology (clinical) (Q1)
+54,Nature Cell Biology,,,journal,14657392,United Kingdom,Nature Publishing Group,1999-ongoing,Cell Biology (Q1)
+55,Molecular Cell,,,journal,"10974164, 10972765",United States,Cell Press,1997-ongoing,Cell Biology (Q1); Molecular Biology (Q1)
+56,American Economic Review,,,journal,28282,United States,American Economic Association,1978-ongoing,Economics and Econometrics (Q1)
+57,NBER Macroeconomics Annual,,,book series,8893365,United States,University of Chicago Press,1996-ongoing,Economics and Econometrics (Q1)
+58,Physiological Reviews,,,journal,"15221210, 00319333",United States,American Physiological Society,1945-ongoing,Medicine (miscellaneous) (Q1); Molecular Biology (Q1); Physiology (Q1); Physiology (medical) (Q1)
+59,Journal of Clinical Oncology,,,journal,0732183X,United States,American Society of Clinical Oncology,1983-ongoing,Cancer Research (Q1); Medicine (miscellaneous) (Q1); Oncology (Q1)
+60,Advances in Physics,,,journal,"14606976, 00018732",United Kingdom,Taylor & Francis,1952-ongoing,Condensed Matter Physics (Q1)
+61,Cancer Cell,,,journal,15356108,United States,Cell Press,2002-ongoing,Cancer Research (Q1); Cell Biology (Q1); Oncology (Q1)
+62,"Vital and health statistics. Series 2, Data evaluation and methods research",,,journal,832057,United States,U.S. National Center for Health Statistics,"1965, 1970, 1977-1982, 1985-1989, 1991-1994, 1996-2001, 2003-2006, 2008, 2010-ongoing",Health Information Management (Q1); Medicine (miscellaneous) (Q1); Statistics and Probability (Q1)
+63,Annual Review of Plant Biology,,,book series,15435008,United States,Annual Reviews Inc.,1996-ongoing,Cell Biology (Q1); Molecular Biology (Q1); Physiology (Q1); Plant Science (Q1)
+64,American Economic Journal: Applied Economics,,,journal,"19457790, 19457782",United States,American Economic Association,2009-ongoing,"Economics, Econometrics and Finance (miscellaneous) (Q1)"
+65,Cell Stem Cell,,,journal,19345909,United States,Cell Press,2007-ongoing,Cell Biology (Q1); Genetics (Q1); Molecular Medicine (Q1)
+66,Neuron,,,journal,8966273,United States,Cell Press,1988-ongoing,Neuroscience (miscellaneous) (Q1)
+67,Immunity,,,journal,"10974180, 10747613",United States,Cell Press,1994-ongoing,Immunology (Q1); Immunology and Allergy (Q1); Infectious Diseases (Q1)
+68,Academy of Management Journal,,,journal,14273,United States,Academy of Management,"1975-1987, 1989-ongoing","Business and International Management (Q1); Business, Management and Accounting (miscellaneous) (Q1); Management of Technology and Innovation (Q1); Strategy and Management (Q1)"
+69,Cell Metabolism,,,journal,15504131,United States,Cell Press,2005-ongoing,Cell Biology (Q1); Molecular Biology (Q1); Physiology (Q1)
+70,Nature Chemistry,,,journal,"17554330, 17554349",United Kingdom,Nature Publishing Group,2009-ongoing,Chemical Engineering (miscellaneous) (Q1); Chemistry (miscellaneous) (Q1)
+71,Annual Review of Physiology,,,journal,"00664278, 15451585",United States,Annual Reviews Inc.,1946-ongoing,Physiology (Q1)
+72,Clinical Microbiology Reviews,,,journal,"08938512, 10986618",United States,American Society for Microbiology,1988-ongoing,"Epidemiology (Q1); Immunology and Microbiology (miscellaneous)  (Q1); Infectious Diseases (Q1); Microbiology (medical) (Q1); Public Health, Environmental and Occupational Health (Q1)"
+73,Annual Review of Cell and Developmental Biology,,,book series,"15308995, 10810706",United States,Annual Reviews Inc.,1995-ongoing,Cell Biology (Q1); Developmental Biology (Q1)
+74,Genome Research,,,journal,"15495469, 10889051",United States,Cold Spring Harbor Laboratory Press,1991-ongoing,Genetics (Q1); Genetics (clinical) (Q1)
+75,Journal of Accounting Research,,,journal,"1475679X, 00218456",United Kingdom,Blackwell Publishing Inc.,1996-ongoing,Accounting (Q1); Economics and Econometrics (Q1); Finance (Q1)
+76,Advanced Materials,,,journal,9359648,United States,Wiley-Blackwell,1989-ongoing,Materials Science (miscellaneous) (Q1); Mechanical Engineering (Q1); Mechanics of Materials (Q1); Nanoscience and Nanotechnology (Q1)
+77,The Lancet Diabetes and Endocrinology,,,journal,22138587,Netherlands,The Lancet Publishing Group,2013-ongoing,"Endocrinology (Q1); Endocrinology, Diabetes and Metabolism (Q1); Internal Medicine (Q1)"
+78,Trends in Cell Biology,,,journal,9628924,Netherlands,Elsevier BV,1991-ongoing,Cell Biology (Q1)
+79,Nature Structural and Molecular Biology,,,journal,"15459993, 15459985",United Kingdom,Nature Publishing Group,2004-ongoing,Molecular Biology (Q1); Structural Biology (Q1)
+80,Genome Biology,,,journal,"1474760X, 14747596",United Kingdom,BioMed Central,2000-ongoing,"Cell Biology (Q1); Ecology, Evolution, Behavior and Systematics (Q1); Genetics (Q1)"
+81,Journal of the American Mathematical Society,,,journal,"10886834, 08940347",United States,American Mathematical Society,1996-ongoing,Applied Mathematics (Q1); Mathematics (miscellaneous) (Q1)
+82,Annual Review of Condensed Matter Physics,,,journal,"19475454, 19475462",United States,Annual Reviews Inc.,2010-ongoing,Condensed Matter Physics (Q1); Materials Science (miscellaneous) (Q1)
+83,American Journal of Political Science,,,journal,"00925853, 15405907",United Kingdom,Blackwell Publishing Inc.,"1982, 1986, 1996-ongoing",Political Science and International Relations (Q1); Sociology and Political Science (Q1)
+84,Nature Physics,,,journal,17452473,United Kingdom,Nature Publishing Group,2006-ongoing,Physics and Astronomy (miscellaneous) (Q1)
+85,Nature Reviews Drug Discovery,,,journal,14741776,United Kingdom,Nature Publishing Group,2002-ongoing,Drug Discovery (Q1); Medicine (miscellaneous) (Q1); Pharmacology (Q1)
+86,Nature Reviews Clinical Oncology,,,journal,"17594782, 17594774",United Kingdom,Nature Publishing Group,2009-ongoing,Oncology (Q1)
+87,Accounts of Chemical Research,,,journal,"00014842, 15204898",United States,American Chemical Society,1968-ongoing,Chemistry (miscellaneous) (Q1); Medicine (miscellaneous) (Q1)
+88,The Lancet Infectious Diseases,,,journal,14733099,United Kingdom,The Lancet Publishing Group,2001-ongoing,Infectious Diseases (Q1)
+89,Annual Review of Biophysics,,,journal,1936122X,United States,Annual Reviews Inc.,2008-ongoing,Biochemistry (Q1); Bioengineering (Q1); Biophysics (Q1); Cell Biology (Q1); Structural Biology (Q1)
+90,Academy of Management Review,,,journal,3637425,United States,Academy of Management,"1978-1987, 1989-1991, 1996-ongoing","Business, Management and Accounting (miscellaneous) (Q1); Management of Technology and Innovation (Q1); Strategy and Management (Q1)"
+91,European Urology,,,journal,"03022838, 1421993X",Netherlands,Elsevier BV,1975-ongoing,Urology (Q1)
+92,Journal of the American College of Cardiology,,,journal,7351097,Netherlands,Elsevier BV,1983-ongoing,Cardiology and Cardiovascular Medicine (Q1)
+93,Psychological Bulletin,,,journal,332909,United States,American Psychological Association,1904-ongoing,History and Philosophy of Science (Q1); Psychology (miscellaneous) (Q1)
+94,Annals of Mathematics,,,journal,0003486X,United States,Princeton University Press,1996-ongoing,"Statistics and Probability (Q1); Statistics, Probability and Uncertainty (Q1)"
+95,Journal of Marketing,,,journal,"15477185, 00222429",United States,American Marketing Association,"1969, 1971, 1973, 1977, 1979-1981, 1996-ongoing",Business and International Management (Q1); Economics and Econometrics (Q1); Marketing (Q1)
+96,Journal of Economic Literature,,,journal,220515,United States,American Economic Association,"1981, 1984, 1986, 1996-ongoing",Economics and Econometrics (Q1)
+97,Advanced Energy Materials,,,journal,"16146832, 16146840",Germany,Wiley-VCH Verlag,2011-ongoing,"Materials Science (miscellaneous) (Q1); Renewable Energy, Sustainability and the Environment (Q1)"
+98,Strategic Management Journal,,,journal,"10970266, 01432095",United States,John Wiley & Sons Inc.,1980-ongoing,Business and International Management (Q1); Strategy and Management (Q1)
+99,Nature Protocols,,,journal,17542189,United Kingdom,Nature Publishing Group,2006-ongoing,"Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1)"
+100,Annual Review of Economics,,,journal,19411383,United States,Annual Reviews Inc.,2010-ongoing,Economics and Econometrics (Q1)
